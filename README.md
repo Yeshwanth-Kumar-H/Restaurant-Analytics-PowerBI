@@ -5,6 +5,8 @@
 [![Data Model](https://img.shields.io/badge/Schema-Star_Schema-2EA44F?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)]()
 
+![Ferrari & Russo Executive Dashboard](./screenshots/linkedin_cover_slide.png)
+
 An end-to-end Enterprise Business Intelligence and Decision Support System engineered for **Ferrari & Russo Restaurant Group**, a multi-venue hospitality platform operating across 30 partner restaurants in 5 metropolitan cities.
 
 ---
