@@ -1,0 +1,13 @@
+# Power BI temporary files
+~$*
+*.tmp
+*.temp
+
+# Archives & raw dumps
+*.zip
+*.rar
+*.7z
+
+# OS metadata
+.DS_Store
+Thumbs.db
