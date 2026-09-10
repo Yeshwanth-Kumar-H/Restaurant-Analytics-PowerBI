@@ -145,5 +145,5 @@ All calculations are built as **explicit DAX measures**:
 ## 👤 Author
 **Yeshwanth Kumar H**  
 *Data Analyst & BI Solution Architect*  
-* [LinkedIn Profile](https://linkedin.com/in/)
+* [LinkedIn Profile](https://www.linkedin.com/in/yeshwanth-kumar-h/)
 * [GitHub Profile](https://github.com/Yeshwanth-Kumar-H)
